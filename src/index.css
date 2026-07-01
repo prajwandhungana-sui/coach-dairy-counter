@@ -8,6 +8,12 @@
   background: #08111f;
 }
 
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
 html {
   background: #08111f;
 }
@@ -15,7 +21,6 @@ html {
 body {
   margin: 0;
   min-width: 320px;
-  min-height: 100vh;
   background: #08111f;
 }
 
