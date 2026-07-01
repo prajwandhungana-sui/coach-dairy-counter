@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/constants.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/floatingactions.tsx","./src/components/milkcard.tsx","./src/components/modal.tsx","./src/components/producttile.tsx","./src/components/statcard.tsx","./src/lib/storage.ts","./src/lib/summary.ts","./src/types/pwa.d.ts"],"version":"5.9.3"}
